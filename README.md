@@ -20,7 +20,6 @@
 
 ## ⚙️ Kurulum ve Çalıştırma Rehberi 
 
-Hocam, projeyi yerel ortamınızda çalıştırmak için lütfen aşağıdaki adımları sırasıyla takip ediniz:
 
 ### 1. Veritabanı Kurulumu
 
